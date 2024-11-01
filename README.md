@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karishma-varshney&label=Profile%20views&color=0e75b6&style=flat" alt="karishma-varshney" /> </p>
 
-- 🌱 I’m currently learning **Python Flask**
+- 🌱 I’m currently learning **React Js**
 
-- 💬 Ask me about **Python , Web development**
+- 💬 Ask me about **Web development**
 
 - 📫 How to reach me **karishma.varshney2003@gmail.com**
 
