@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Karishma Varshney</h1>
-<h3 align="center">Aspiring Developer | Passionate about Learning and Building</h3>
+<h3 align="center">Passionate about Learning and Building</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karishma-varshney&label=Profile%20views&color=0e75b6&style=flat" alt="karishma-varshney" /> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 📫 How to reach me **karishma.varshney2003@gmail.com**
+
+<!-- - 🌱 I’m currently learning **ReactJs**
 
 - 💬 Ask me about **Web development**
 
@@ -11,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-Yf5fukISNguSrANjFs_U6JvZJ9Rveyn/view?usp=sharing](https://drive.google.com/file/d/1-Yf5fukISNguSrANjFs_U6JvZJ9Rveyn/view?usp=sharing)
 
-- ⚡ Fun fact **I am a overthinker.**
+- ⚡ Fun fact **I am a overthinker.** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
